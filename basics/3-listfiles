@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /root/holberton-shell/basics/3-listfiles chmod 777
+ls -l  
