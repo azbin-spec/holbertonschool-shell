@@ -1,2 +1,1 @@
- #!/bin/bash
-my first try 
+ #!/bin/bash 
