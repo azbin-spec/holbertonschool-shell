@@ -1,1 +1,2 @@
-my first try ²
+ #!/bin/bash
+my first try 
