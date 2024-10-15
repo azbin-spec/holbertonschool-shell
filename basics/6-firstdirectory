@@ -1,2 +1,2 @@
 #!/bin/bash
-cd ../.. cd tmp cd my_first_directory mkdir tmp  
+cd ../.. cd tmp/my_first_directory mkdir tmp  
