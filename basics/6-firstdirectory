@@ -1,2 +1,5 @@
 #!/bin/bash
-nano ../../tmp/my_first_directory
+cd ../..
+cd tmp 
+cd my_first_directory 
+mkdir tmp 
