@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -h vincent:guillaume ./_hello 
+chmod -h guillaume:vincent ./_hello 
